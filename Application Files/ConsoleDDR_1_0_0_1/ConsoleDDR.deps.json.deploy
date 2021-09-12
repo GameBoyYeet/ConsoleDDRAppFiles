@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleDDR/1.0.0": {
+        "runtime": {
+          "ConsoleDDR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleDDR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
